@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "jest": "^30.4.2"
+  },
+  "_npx": {
+    "packages": [
+      "jest"
+    ]
+  }
+}
