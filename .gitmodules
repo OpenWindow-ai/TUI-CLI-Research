@@ -1,0 +1,51 @@
+[submodule "aider"]
+	path = aider
+	url = https://github.com/paul-gauthier/aider.git
+[submodule "bubbletea"]
+	path = bubbletea
+	url = https://github.com/charmbracelet/bubbletea.git
+[submodule "clack"]
+	path = clack
+	url = https://github.com/natemoo-re/clack.git
+[submodule "codebuff"]
+	path = codebuff
+	url = https://github.com/CodebuffAI/codebuff.git
+[submodule "codex-cli"]
+	path = codex-cli
+	url = https://github.com/ymichael/open-codex.git
+[submodule "enquirer"]
+	path = enquirer
+	url = https://github.com/enquirer/enquirer.git
+[submodule "gemini-cli"]
+	path = gemini-cli
+	url = https://github.com/google-gemini/gemini-cli.git
+[submodule "gh-cli"]
+	path = gh-cli
+	url = https://github.com/cli/cli.git
+[submodule "goose"]
+	path = goose
+	url = https://github.com/block/goose.git
+[submodule "helix"]
+	path = helix
+	url = https://github.com/helix-editor/helix.git
+[submodule "ink"]
+	path = ink
+	url = https://github.com/vadimdemedes/ink.git
+[submodule "lazygit"]
+	path = lazygit
+	url = https://github.com/jesseduffield/lazygit.git
+[submodule "lipgloss"]
+	path = lipgloss
+	url = https://github.com/charmbracelet/lipgloss.git
+[submodule "opencode"]
+	path = opencode
+	url = https://github.com/anomalyco/opencode.git
+[submodule "ratatui"]
+	path = ratatui
+	url = https://github.com/ratatui/ratatui.git
+[submodule "rich"]
+	path = rich
+	url = https://github.com/Textualize/rich.git
+[submodule "textual"]
+	path = textual
+	url = https://github.com/Textualize/textual.git
